@@ -1,0 +1,31 @@
+{
+  "name": "node-study",
+  "version": "1.0.0",
+  "description": "웹개발자",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louise7906/node-study.git"
+  },
+  "author": "llouise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/louise7906/node-study/issues"
+  },
+  "homepage": "https://github.com/louise7906/node-study#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "iconv-lite": "^0.6.3",
+    "json2xls": "^0.1.2",
+    "mysql2": "^2.2.5",
+    "sequelize": "^5.22.4",
+    "supervisor": "^0.12.0"
+  }
+}
